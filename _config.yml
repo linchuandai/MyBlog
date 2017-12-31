@@ -12,7 +12,8 @@ description: The weekly happenings in the life of a Waterloo ECE student
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Jekyll theme used
-theme: jekyll-theme-cayman
+remote
+remote_theme: jekyll-theme-cayman-blog
 
 #
 # Flags below are optional
