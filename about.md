@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-Hey, I'm Leon, a Computer Engineering student at the University of Waterloo.
+Hey, I'm Leon, a Computer Engineering student at the University of Waterloo. This blog just documents some of the thoughts that I have throughout the course of University.
 
 ### Contact me
 
