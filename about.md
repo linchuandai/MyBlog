@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
-permalink: /about.html
+permalink: /about/
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Some information about you!
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+### More Information
 
+A place to include any other types of information that you'd like to include about yourself.
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
