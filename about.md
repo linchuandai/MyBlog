@@ -7,9 +7,8 @@ permalink: /about/
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey, I'm Leon, a Computer Engineering student at the University of Waterloo.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you need to contact me, feel free check out my [website](linchuandai.github.io/MyWebiste) or email me at [linchuandai@gmail.com](mailto:email@domain.com)
