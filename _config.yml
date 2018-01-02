@@ -11,10 +11,6 @@ description: The weekly occurences/thoughts in the life of a Waterloo ECE studen
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-# Jekyll theme used
-remote
-remote_theme: jekyll-theme-cayman-blog
-
 #
 # Flags below are optional
 #
