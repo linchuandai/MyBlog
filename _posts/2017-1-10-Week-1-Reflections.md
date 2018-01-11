@@ -4,7 +4,7 @@ title: Week 1 Reflections
 ---
 Well, its been a whole week since school has started and it has been a blast! Now I'm finally learning about subjects 
 that actually pertain to my major such as ECE106 (Electricity and Magnetism) and ECE124 (Digital Computers and Circuits). 
-Also this week was my firstACE rehearsal as President!
+Also this week was my first ACE rehearsal as President!
 
 1B ECE has definitely been harder since everything is new and not high school review. This doesn't mean that it's not fun 
 though. Some of my favourite classes have been:
