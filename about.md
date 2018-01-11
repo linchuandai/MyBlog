@@ -8,4 +8,4 @@ Hey, I'm Leon, a Computer Engineering student at the University of Waterloo. Thi
 
 ### Contact me
 
-If you need to contact me, feel free check out my [website](linchuandai.github.io/MyWebiste) or email me at [linchuandai@gmail.com](mailto:email@domain.com)
+If you need to contact me, feel free check out my [website](https://linchuandai.github.io/MyWebiste) or email me at [linchuandai@gmail.com](mailto:email@domain.com)
