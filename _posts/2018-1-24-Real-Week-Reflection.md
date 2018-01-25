@@ -3,7 +3,7 @@ layout: post
 title: The week where everything became real
 ---
 
-This is going to be the real reflect of the week where ECE 1B became 1B ECE.
+This is going to be the real reflection of the week where ECE 1B became 1B ECE.
 
 Last week was probably one of the most stressful and interesting weeks of my Waterloo ECE career so far. So, to recap, Waterloo Work's main round opened, every course started picking up speed and it rained a lot :(
 
