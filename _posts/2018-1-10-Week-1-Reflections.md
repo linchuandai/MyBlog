@@ -8,7 +8,7 @@ Also this week was my first ACE rehearsal as President!
 
 1B ECE has definitely been harder since everything is new and not high school review. This doesn't mean that it's not fun 
 though. Some of my favourite classes have been:
-* ECE124 - Digit Computers and Systems
+* ECE124 - Digital Computers and Systems
   * Learned about boolean algebra (cool!)
   * Labs where we work with FPGA (Field Programmable Gate Arrays) to make custom circuits using VHDL
 * ECE140 - Linear Circuits
