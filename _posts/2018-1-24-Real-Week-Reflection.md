@@ -14,6 +14,7 @@ The main for Waterloo Works opened up which means that all the main jobs opened 
 * Mobile
 * Web + Android
 * Web + iOS
+
 Some jobs also required a cover letter so writting those too up some time too. One that I wanted in particular, Relic Enteratined required a cover letter so I hope mine gets me an interview :/
 Its also a pretty nerve racking process since you get to see how many other people applied to the same jobs that you did. Most of the jobs had 30-50 applicants per job spot so my confidence definately isn't very high so far.
 
